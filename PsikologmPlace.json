@@ -1,10 +1,11 @@
-{"namaTempat" : "Klinik Psikologi Universitas Padjadjaran (UNPAD)", "lokasi" : "Jl. Raya Jatinangor KM 21, Sumedang, Jawa Barat", "koordinatLong" : "-6.933623", "koordinatLat" : "107.774542"}
-{"namaTempat" : "Klinik Psikologi Tumbuh Kembang", "lokasi" : "Jl. Raya Cipaganti No. 108, Bandung, Jawa Barat", "koordinatLong" : "-6.882480", "koordinatLat" : "107.609102"}
-{"namaTempat" : "Klinik Psikologi Multazam", "lokasi" : "Jl. Raya Kopo No. 599, Bandung, Jawa Barat", "koordinatLong" : "-6.953677", "koordinatLat" : "107.579012"}
-{"namaTempat" : "Klinik Psikologi Persada", "lokasi" : "Jl. Cikutra No. 276, Bandung, Jawa Barat", "koordinatLong" : "-6.891160", "koordinatLat" : "107.636065"}
-{"namaTempat" : "Klinik Psikologi RS PMI Bogor", "lokasi" : "Jl. Pajajaran No. 80, Bogor, Jawa Barat", "koordinatLong" : "-6.598621", "koordinatLat" : "106.808776"}
-{"namaTempat" : "Klinik Psikologi Tumbuh Kembang Anak RSIA Bunda Suryatni", "lokasi" : "Jl. Raya Pajajaran No. 101, Bogor, Jawa Barat", "koordinatLong" : "6.592109", "koordinatLat" : "106.806740"}
-{"namaTempat" : "Klinik Psikologi Mandiri", "lokasi" : "Jl. Cipto Mangunkusumo No. 25, Cirebon, Jawa Barat", "koordinatLong" : "-6.719647", "koordinatLat" : "108.549020"}
-{"namaTempat" : "Klinik Psikologi RS Permata Cirebon", "lokasi" : "Jl. Tuparev No. 49, Cirebon, Jawa Barat", "koordinatLong" : "-6.719308", "koordinatLat" : "108.554516"}
-{"namaTempat" : "Klinik Psikologi Universitas Indonesia (UI)", "lokasi" : "Kampus UI Depok, Jawa Barat", "koordinatLong" : "-6.364999", "koordinatLat" : "106.828014"}
+[{"namaTempat" : "Klinik Psikologi Universitas Padjadjaran (UNPAD)", "lokasi" : "Jl. Raya Jatinangor KM 21, Sumedang, Jawa Barat", "koordinatLong" : "-6.933623", "koordinatLat" : "107.774542"},
+{"namaTempat" : "Klinik Psikologi Tumbuh Kembang", "lokasi" : "Jl. Raya Cipaganti No. 108, Bandung, Jawa Barat", "koordinatLong" : "-6.882480", "koordinatLat" : "107.609102"},
+{"namaTempat" : "Klinik Psikologi Multazam", "lokasi" : "Jl. Raya Kopo No. 599, Bandung, Jawa Barat", "koordinatLong" : "-6.953677", "koordinatLat" : "107.579012"},
+{"namaTempat" : "Klinik Psikologi Persada", "lokasi" : "Jl. Cikutra No. 276, Bandung, Jawa Barat", "koordinatLong" : "-6.891160", "koordinatLat" : "107.636065"},
+{"namaTempat" : "Klinik Psikologi RS PMI Bogor", "lokasi" : "Jl. Pajajaran No. 80, Bogor, Jawa Barat", "koordinatLong" : "-6.598621", "koordinatLat" : "106.808776"},
+{"namaTempat" : "Klinik Psikologi Tumbuh Kembang Anak RSIA Bunda Suryatni", "lokasi" : "Jl. Raya Pajajaran No. 101, Bogor, Jawa Barat", "koordinatLong" : "6.592109", "koordinatLat" : "106.806740"},
+{"namaTempat" : "Klinik Psikologi Mandiri", "lokasi" : "Jl. Cipto Mangunkusumo No. 25, Cirebon, Jawa Barat", "koordinatLong" : "-6.719647", "koordinatLat" : "108.549020"},
+{"namaTempat" : "Klinik Psikologi RS Permata Cirebon", "lokasi" : "Jl. Tuparev No. 49, Cirebon, Jawa Barat", "koordinatLong" : "-6.719308", "koordinatLat" : "108.554516"},
+{"namaTempat" : "Klinik Psikologi Universitas Indonesia (UI)", "lokasi" : "Kampus UI Depok, Jawa Barat", "koordinatLong" : "-6.364999", "koordinatLat" : "106.828014"},
 {"namaTempat" : "Klinik Psikologi RS Hermina Depok", "lokasi" : "Jl. Margonda Raya No. 339, Depok, Jawa Barat", "koordinatLong" : "-6.384164", "koordinatLat" : "106.828537"}
+]
